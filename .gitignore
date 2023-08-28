@@ -1,1 +1,10 @@
-﻿
+﻿/InfoTrackSEO/.idea/
+/InfoTrackSEO/bin/
+/InfoTrackSEO/obj/
+/.idea/
+/InfoTrackSEO.Application/bin/
+/InfoTrackSEO.Application/obj/
+/InfoTrackSEO.Domain/bin/
+/InfoTrackSEO.Domain/obj/
+/InfoTrackSEO.Tests/bin/
+/InfoTrackSEO.Tests/obj/
