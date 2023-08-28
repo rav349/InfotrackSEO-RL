@@ -8,7 +8,6 @@ namespace InfoTrackSEO.Application.Queries;
 public class GetSearchRankingsQuery : IRequest<SearchResult>
 {
     public string Keywords { get; set; }
-
     public string Url { get; set; }
     public SearchEngines SearchEngines { get; set; }
 }

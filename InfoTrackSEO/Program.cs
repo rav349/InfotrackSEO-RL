@@ -4,6 +4,7 @@ using InfoTrackSEO.Application.Queries;
 using InfoTrackSEO.Application.Services;
 using InfoTrackSEO.Domain.Data;
 using InfoTrackSEO.Domain.Models;
+using InfoTrackSEO.Middleware;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 
@@ -39,12 +40,16 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    app.UseDeveloperExceptionPage();
+}
+else
+{
+    app.UseExceptionHandler("/error");
+    app.UseHsts();
 }
 
+app.UseMiddleware<GlobalErrorHandlingMiddleware>();
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();
