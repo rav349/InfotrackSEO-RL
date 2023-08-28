@@ -1,0 +1,14 @@
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\bin\Debug\net7.0\InfoTrackSEO.Domain.deps.json
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\bin\Debug\net7.0\InfoTrackSEO.Domain.dll
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\bin\Debug\net7.0\InfoTrackSEO.Domain.pdb
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.csproj.AssemblyReference.cache
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.AssemblyInfoInputs.cache
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.AssemblyInfo.cs
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.dll
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\refint\InfoTrackSEO.Domain.dll
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.pdb
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\ref\InfoTrackSEO.Domain.dll
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\bin\Debug\net7.0\InfoTrackSEO.Domain.runtimeconfig.json
+C:\Users\Rav\RiderProjects\InfoTrackSEO\InfoTrackSEO.Domain\obj\Debug\net7.0\InfoTrackSEO.Domain.genruntimeconfig.cache

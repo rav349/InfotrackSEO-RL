@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad983ea2_002D82ee_002D457b_002D912f_002D4774068ae0cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SearchEngineClientFactoryTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3055A50D-B3E3-4A41-A7BD-7E9B39E5A2F9::net7.0::InfoTrackSEO.Tests.SearchEngineClientFactoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3055A50D-B3E3-4A41-A7BD-7E9B39E5A2F9::net7.0::InfoTrackSEO.Tests.GetSearchRankingsHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3055A50D-B3E3-4A41-A7BD-7E9B39E5A2F9::net7.0::InfoTrackSEO.Tests.SearchControllerTests.GetRankings_Returns_Correct_Search_Rankings&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3055A50D-B3E3-4A41-A7BD-7E9B39E5A2F9::net7.0::InfoTrackSEO.Tests.SearchControllerTests.GetRankings_Returns_BadRequest_For_Invalid_SearchEngine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3055A50D-B3E3-4A41-A7BD-7E9B39E5A2F9::net7.0::InfoTrackSEO.Tests.SearchHistoryControllerTests.GetSearchHistory_Returns_Correct_SearchHistory&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
