@@ -1,0 +1,12 @@
+<nav class="bg-dark text-white p-3">
+  <h2 class="text-center">InfoTrack SEO</h2>
+  <ul #nav="ngbNav" class="nav nav-tabs" ngbNav>
+    <li ngbNavItem>
+      <a ngbNavLink routerLink="/search" class="nav-link text-white">Search</a>
+    </li>
+    <li ngbNavItem>
+      <a ngbNavLink routerLink="/search-history" class="nav-link text-white">Search History</a>
+    </li>
+  </ul>
+  <div [ngbNavOutlet]="nav"></div>
+</nav>

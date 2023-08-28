@@ -1,0 +1,38 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+.form-group label {
+  width: 100%;
+  font-weight: bold;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 10px;
+}
+
+.form-group select {
+  height: 100%;
+}
+
+.btn-primary {
+  width: 100%;
+  padding: 10px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}

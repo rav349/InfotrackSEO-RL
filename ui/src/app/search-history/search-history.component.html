@@ -1,0 +1,23 @@
+<div class="container mt-4">
+  <h2 class="text-center mb-4">Search History</h2>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">Search Engine</th>
+      <th scope="col">Keywords</th>
+      <th scope="col">Rankings</th>
+      <th scope="col">URL</th>
+      <th scope="col">Search Date</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let search of searchHistoryData;">
+      <td>{{ search.searchEngine }}</td>
+      <td>{{ search.keywords }}</td>
+      <td>{{ search.rankings }}</td>
+      <td>{{ search.url }}</td>
+      <td>{{ search.searchDate }}</td>
+    </tr>
+    </tbody>
+  </table>
+</div>

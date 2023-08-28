@@ -5295,11 +5295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Tests\\InfoTrackSEO.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Tests\\InfoTrackSEO.Tests.csproj",
       "projectName": "InfoTrackSEO.Tests",
-      "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Tests\\InfoTrackSEO.Tests.csproj",
+      "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Tests\\InfoTrackSEO.Tests.csproj",
       "packagesPath": "C:\\Users\\Rav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5319,11 +5319,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {
-              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj"
+            "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {
+              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj"
             },
-            "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO\\InfoTrackSEO.csproj": {
-              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO\\InfoTrackSEO.csproj"
+            "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO\\InfoTrackSEO.csproj": {
+              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO\\InfoTrackSEO.csproj"
             }
           }
         }

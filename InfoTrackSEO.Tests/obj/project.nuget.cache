@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+3fbTPbsGX3/i6EHC+3UbCJYMA/zNMKIRkqnKZpPo4c2GKVohSO+l9ICRuJQL5rh+qwyoqDjiXSo0Ghr96AJw==",
+  "dgSpecHash": "kDum22hDWiD2fk1JFJCHZMLtdj7n3nL7QbFw52Vqdebm1nAzyh1upx+9GH4XFTwtzEPwWgZyEtmyWU2oKvsFfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Tests\\InfoTrackSEO.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Tests\\InfoTrackSEO.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rav\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rav\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

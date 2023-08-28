@@ -4401,11 +4401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO\\InfoTrackSEO.csproj",
+      "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO\\InfoTrackSEO.csproj",
       "projectName": "InfoTrackSEO",
-      "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO\\InfoTrackSEO.csproj",
+      "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO\\InfoTrackSEO.csproj",
       "packagesPath": "C:\\Users\\Rav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO\\obj\\",
+      "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4426,11 +4426,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {
-              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj"
+            "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {
+              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj"
             },
-            "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj": {
-              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj"
+            "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj": {
+              "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj"
             }
           }
         }

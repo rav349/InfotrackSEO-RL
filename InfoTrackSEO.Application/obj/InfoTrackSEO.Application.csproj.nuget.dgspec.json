@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {}
+    "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {
+    "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj",
         "projectName": "InfoTrackSEO.Application",
-        "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj",
+        "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\InfoTrackSEO.Application.csproj",
         "packagesPath": "C:\\Users\\Rav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Application\\obj\\",
+        "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj"
+              "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj": {
+    "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj",
         "projectName": "InfoTrackSEO.Domain",
-        "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj",
+        "projectPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\InfoTrackSEO.Domain.csproj",
         "packagesPath": "C:\\Users\\Rav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfoTrackSEO\\InfoTrackSEO.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rav\\RiderProjects\\InfotrackSEO-RL\\InfoTrackSEO.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
